@@ -9,7 +9,7 @@ Hello，this is Qiyao.
 ---
 
 # Contact me：
-📮：hualaozhe@qq.com
-My blog: https://blog.qiyao.us.kg/
+- 📮：hualaozhe@qq.com
+- My blog: https://blog.qiyao.us.kg/
 
 ---
