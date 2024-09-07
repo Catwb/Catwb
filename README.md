@@ -10,7 +10,6 @@ Hello，this is Qiyao.
 
 # Contact me：
 📮：hualaozhe@qq.com
-Wechat：NO
-QQ：NO
+My blog: https://blog.qiyao.us.kg/
 
 ---
