@@ -4,11 +4,13 @@ Hello，this is Qiyao.
 ---
 
 我不知道该写啥在这里
-- [×] 英语/English
+
+- [] 英语/English
 
 ---
 
 # Contact me：
+
 - 📮：hualaozhe@qq.com
 - My blog: https://blog.qiyao.us.kg/
 
