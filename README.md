@@ -6,7 +6,7 @@ Hello，this is Qiyao.
 
 我不知道该写啥在这里
 
--[x] 中文/Chinese
+-[X] 中文/Chinese
 -[] 英语/English（maybe ok）
 
 ---
