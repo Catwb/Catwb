@@ -13,7 +13,7 @@ Hello，this is Qiyao.
 
 # Contact me：
 
-- 📮：hualaozhe@qq.com
+- 📮：hualaozhe#qq.com
 - My blog: https://blog.245179.xyz/
 
 ---
