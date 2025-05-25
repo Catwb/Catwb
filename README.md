@@ -7,7 +7,7 @@ Hello，this is Qiyao.
 我不知道该写啥在这里
 
 - [X] 中文/Chinese
-- [] 英语/English（maybe ok）
+- [ ] 英语/English（maybe ok）
 
 ---
 
